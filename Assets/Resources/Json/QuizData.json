@@ -1,0 +1,204 @@
+{
+    "quizData": [
+        {
+            "question": "What was the official name of the first Cricket World Cup?",
+            "option1": "Fifa World Cup",
+            "option2": "Prudential World Cup",
+            "option3": "Sudo World Cup",
+            "option4": "Ashes Series",
+            "answerOption": 2
+        },
+        {
+            "question": "Who won the maximum sixes award for the IPL 2008 season??",
+            "option1": "Sanath Jayasuriya",
+            "option2": "Suresh Rana",
+            "option3": "Chris Gayle",
+            "option4": "Robert Pattinson",
+            "answerOption": 1
+        },
+        {
+            "question": "Which countries are the latest full time members of the ICC?",
+            "option1": "Afghanistan and Ireland",
+            "option2": "Bangladesh and Nepal",
+            "option3": "Trinidad & Tobago and Burundi",
+            "option4": "None of the above",
+            "answerOption": 1
+        },
+        {
+            "question": "Which of the following is the oldest test cricket playing country in the world?",
+            "option1": "Australia",
+            "option2": "India",
+            "option3": "West Indies",
+            "option4": "South Africa",
+            "answerOption": 1
+        },
+        {
+            "question": "Where is the headquarter of the ICC?",
+            "option1": "London",
+            "option2": "Cape town",
+            "option3": "Sydney",
+            "option4": "Dubai",
+            "answerOption": 4
+        },
+        {
+            "question": "When was ICC established?",
+            "option1": "1909",
+            "option2": "1953",
+            "option3": "1960",
+            "option4": "1877",
+            "answerOption": 1
+        },
+        {
+            "question": "Which of the following international competition is not organized by the ICC?",
+            "option1": "Champions Trophy",
+            "option2": "World Cricket League",
+            "option3": "Under-19 Cricket World Cup",
+            "option4": "Syed Mushtaq Ali Trophy",
+            "answerOption": 4
+        },
+        {
+            "question": "Who is the current Chairman of the ICC?",
+            "option1": "David Richardson",
+            "option2": "Shashank Manohar",
+            "option3": "Narayanaswami Srinivasan",
+            "option4": "None of the above",
+            "answerOption": 2
+        },
+        {
+            "question": "Who is chosen at the ICC men's cricketer of the year 2017?",
+            "option1": "K.L. Rahul",
+            "option2": "Virat Kohli",
+            "option3": "Steve Smith",
+            "option4": "Hasan Ali",
+            "answerOption": 2
+        },
+        {
+            "question": "Who of the following was the last President of the ICC?",
+            "option1": "Sharad Pawar",
+            "option2": "Alan Isaac",
+            "option3": "Zaheer Abbas",
+            "option4": "Mustafa Kamal",
+            "answerOption": 3
+        },
+        {
+            "question": "When was the first Cricket World Cup held?",
+            "option1": "1975",
+            "option2": "1953",
+            "option3": "1979",
+            "option4": "1928",
+            "answerOption": 1
+        },
+        {
+            "question": "Which team secured the top position in the ICC test rankings with 123 points in May 2017?",
+            "option1": "India",
+            "option2": "South Africa",
+            "option3": "Australia",
+            "option4": "West Indies",
+            "answerOption": 1
+        },
+        {
+            "question": "ICC has appointed whom as the official ambassador of the Women's Cricket World Cup 2017?",
+            "option1": "Sachin Tendulkar",
+            "option2": "Anil Kumble",
+            "option3": "Sunil Gavaskar",
+            "option4": "Rahul Dravid",
+            "answerOption": 1
+        },
+        {
+            "question": "Which woman cricketer won the BCCI award for the first time?",
+            "option1": "Shanta Rangaswamy",
+            "option2": "Mithali Raj",
+            "option3": "Harmanpreet Kaur",
+            "option4": "Mamta Maben",
+            "answerOption": 1
+        },
+        {
+            "question": "Which bowler became the fastest to take 250 wickets in Test matches?",
+            "option1": "Dennis Lillee",
+            "option2": "Brett Lee",
+            "option3": "Waqar Younis",
+            "option4": "None of the above",
+            "answerOption": 4
+        },
+        {
+            "question": "India has defeated which country to lift the T20 World Cup for Blind title 2017?",
+            "option1": "Afghanistan",
+            "option2": "South Africa",
+            "option3": "West Indies",
+            "option4": "None of the above",
+            "answerOption": 4
+        },
+        {
+            "question": "Who is known as the female Don Bradman in the cricketing world?",
+            "option1": "Betty Wilson",
+            "option2": "Sana Mir",
+            "option3": "Mithali Raj",
+            "option4": "Meghann Moira Lanning",
+            "answerOption": 1
+        },
+        {
+            "question": "What is Sachin Saga Warm Up?",
+            "option1": "a book on cricket",
+            "option2": "a VCD on cricket",
+            "option3": "a game on cricket",
+            "option4": "None of the above",
+            "answerOption": 3
+        },
+        {
+            "question": "Which India cricketer was named on Cricket Australia's ODI team of the year on 27 Dec 2016?",
+            "option1": "Virat Kohli",
+            "option2": "Ajinkya Rahane",
+            "option3": "Harbhajan Singh",
+            "option4": "None of the above",
+            "answerOption": 1
+        },
+        {
+            "question": "Ravichandran Ashwin won which honour on 22nd Dec 2016?",
+            "option1": "ICC’s Test Cricketer of the Year",
+            "option2": "Sir Garfield Sobers Trophy",
+            "option3": "Both a and b",
+            "option4": "Neither of the above",
+            "answerOption": 3
+        },
+        {
+            "question": "Who has been appointed ICC Cricket Committee  chairman for second time:",
+            "option1": "Rahul Dravid",
+            "option2": "Anil Kumble",
+            "option3": "Mahela Jayawardene",
+            "option4": "None of the above",
+            "answerOption": 2
+        },
+        {
+            "question": "Which cricket administrator has been elected as ICC”s first independent chairman?",
+            "option1": "Shashank Manohar",
+            "option2": "Jagmohan Dalmiya",
+            "option3": "Anil Kumble",
+            "option4": "Ravi Shastri",
+            "answerOption": 1
+        },
+        {
+            "question": "Who has been appointed  as chief selector of the Sri Lankan Cricket team?",
+            "option1": "Sanath Jayasuriya",
+            "option2": "Romesh Kaluwitharana",
+            "option3": "Both of the above",
+            "option4": "None of the above",
+            "answerOption": 1
+        },
+        {
+            "question": "Who is the first non cricketer to be inducted into Legends Club of CCI?",
+            "option1": "Nandu Natekar",
+            "option2": "Kapil Dev",
+            "option3": "Raj Singh Dungarpurp",
+            "option4": "None of the above",
+            "answerOption": 1
+        },
+        {
+            "question": "India won the 4 match test series against which nation on 7th December 2015?",
+            "option1": "South Africa",
+            "option2": "Australia",
+            "option3": "West Indies",
+            "option4": "None of the above",
+            "answerOption": 1
+        }
+    ]
+}
